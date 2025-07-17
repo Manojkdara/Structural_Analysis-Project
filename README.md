@@ -38,9 +38,9 @@ Simulated impact scenario:
 * Solver evaluated deformation and stress distribution under impact conditions.
 
 # Result
-<img width="1530" height="746" alt="image" src="https://github.com/user-attachments/assets/f6ccfcea-10c0-4921-a626-58defa6508ec" />
+<img width="1530" height="746" alt="image" src="https://github.com/user-attachments/assets/08f9ea36-808a-413f-8a05-db95b5c9dc7d" />
 The static structural simulation of the metal safety barrier under an impact load reveals that the maximum deformation occurs near one edge, even though the force was applied at the mid-span of the top horizontal rail. The total deformation measured was approximately 2.93 mm, which falls within the acceptable limits for elastic behavior, assuming the material is structural steel.
 
-<img width="1530" height="746" alt="image" src="https://github.com/user-attachments/assets/34625e83-a05d-4311-a672-c919210233bd" />
+<img width="1530" height="746" alt="image" src="https://github.com/user-attachments/assets/b04f082b-9d57-421d-83e6-9b9a18cf448b" />
 Despite the high localized stress, no widespread yielding was observed, indicating that the structure can withstand the current load within its elastic limits. However, the stress at the hotspot (≈155 MPa) should be compared against the material yield strength of structural steel (~250 MPa for mild steel) to ensure long-term reliability
 
